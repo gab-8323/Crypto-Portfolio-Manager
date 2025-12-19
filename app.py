@@ -63,6 +63,12 @@ news_cache = {
     'last_updated': 0
 }
 
+# --- Global Market Explorer Cache ---
+market_explorer_cache = {
+    'data': {}, # symbol: data
+    'last_updated': 0
+}
+
 def get_market_news():
     global news_cache
     # Cache for 10 minutes (600 seconds)
