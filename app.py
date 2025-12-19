@@ -362,8 +362,8 @@ def index():
             'price': price,
             'value': value,
             'avg_buy_price': avg_buy_price,
-            'pl_amount': pl_amount,
-            'pl_percent': pl_percent,
+            'pl': pl_amount,
+            'roi': pl_percent,
             'change_24h': change_24h,
             'sparkline': sparkline
         })
