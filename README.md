@@ -4,13 +4,9 @@ A premium, real-time cryptocurrency portfolio tracker built with **Flask**, **Ch
 
 ## 📸 Application Showcase
 
-````carousel
-![Main Dashboard](screenshots/dashboard.png)
-<!-- slide -->
-![Market Explorer](screenshots/market_explorer.png)
-<!-- slide -->
-![Auth UI Design](screenshots/login.png)
-````
+| Main Dashboard | Market Explorer | Auth UI Design |
+| :---: | :---: | :---: |
+| ![Main Dashboard](screenshots/dashboard.png) | ![Market Explorer](screenshots/market_explorer.png) | ![Auth UI Design](screenshots/login.png) |
 
 ## ✨ Features
 
